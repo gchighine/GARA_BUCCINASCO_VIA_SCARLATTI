@@ -1,0 +1,38 @@
+# File temporanei di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File temporanei di Microsoft Office
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+
+# File di backup
+*.bak
+*.backup
+*~
+
+# File temporanei di AutoCAD
+*.dwl
+*.dwl2
+*.bak
+
+# File compressi temporanei
+*.zip.tmp
+*.rar.tmp
+
+# Log files
+*.log
+
+# Cartelle temporanee
+temp/
+tmp/
+backup/
+
+# File con informazioni sensibili (da NON caricare su GitHub)
+# Decommentare se necessario:
+# *password*
+# *credenziali*
+# *riservato*
